@@ -1,0 +1,8 @@
+MiniMax H3 is licensed under the MiniMax H3 Community License Agreement,
+Copyright © 2026 MiniMax. All Rights Reserved.
+
+MiniMax H3 Semantic Bridge is an independent experimental research project and
+is not an official MiniMax release.
+
+SenseNova U1.5 was used as an experimental teacher during development. The
+public Semantic Bridge does not require or redistribute the SenseNova checkpoint.

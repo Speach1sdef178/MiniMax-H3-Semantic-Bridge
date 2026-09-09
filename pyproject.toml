@@ -1,0 +1,16 @@
+[project]
+name = "minimax-h3-semantic-bridge"
+description = "A compact conditioning-space semantic bridge for MiniMax H3 FL2VA in ComfyUI."
+version = "1.0.0"
+license = { file = "LICENSE.md" }
+requires-python = ">=3.10"
+dependencies = ["safetensors"]
+
+[project.urls]
+Repository = "https://github.com/Speach1sdef178/MiniMax-H3-Semantic-Bridge"
+Documentation = "https://huggingface.co/speach1sdef178/MiniMax-H3-Semantic-Bridge"
+
+[tool.comfy]
+PublisherId = "speach1sdef178"
+DisplayName = "MiniMax H3 Semantic Bridge"
+Icon = ""

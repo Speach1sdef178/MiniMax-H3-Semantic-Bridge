@@ -1,0 +1,4 @@
+*.safetensors
+*.zip
+__pycache__/
+.vscode/
